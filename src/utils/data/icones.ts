@@ -133,6 +133,15 @@ export const icones = {
   ],
   "Icônes statiques": [
     {
+      "id": "AppIcon_Frutiger",
+      "name": "Frutiger",
+      "icon": require("../../../assets/icon/frutiger.png"),
+      "author": "",
+      "isVariable": false,
+      "isSpecial": false,
+      "isPremium": false
+    },
+    {
       "id": "AppIcon_Pride_2024",
       "name": "Pride 2024",
       "icon": require("../../../assets/icon/pride_2024.png"),
